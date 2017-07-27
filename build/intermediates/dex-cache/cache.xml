@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vlad/AndroidStudioProjects/PhoneAuth/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/vlad/AndroidStudioProjects/PhoneAuth/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2af7a096283d27c6b87feb5f260ed808d5d8467a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vlad/AndroidStudioProjects/PhoneAuth/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b57cd9ff388da4e80b3ac9f8b4c3e34ff745f889">
+        <dex dex="/home/vlad/AndroidStudioProjects/PhoneAuth/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c8bcd1485b2c5d9cae8b39bfb4e2d5a03de3abde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vlad/.android/build-cache/94b19f92de4272639a72bbd39adc7355fdc4a137/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/vlad/AndroidStudioProjects/PhoneAuth/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37cee097df2d6194d80e93dbbe7d10fe0191e569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vlad/.android/build-cache/85103582e70e17a38bbe638b185b54c0e5bdfea8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/vlad/AndroidStudioProjects/PhoneAuth/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a7e5115a0a58e28f4c0e31098c80c9a8d699a4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vlad/.android/build-cache/b31e16e14e362765f079e3c0f76f5f1720fc8a07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/vlad/AndroidStudioProjects/PhoneAuth/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3862eb8b3eaeaf9f705d3e9443a5da41290e9e25/classes.dex" />
+    </item>
+
+</items>
